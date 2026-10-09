@@ -48,13 +48,13 @@ Python 3.9+, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Joblib, Jupyter N
 **Key findings:** smoking is the strongest cost driver (smokers pay about 3.8× more on average), followed by age and the obese-smoker group. Sex, region and number of children have little effect.
 
 ## Project Files
-- `YourName_MedicalCost.ipynb` – complete code
+- `ShivamChauhan_MedicalCost.ipynb` – complete code
 - `requirements.txt` – Python dependencies
-- `YourName_ProjectReport.docx` – project report
+- `ShivamChauhan_ProjectReport.docx` – project report
 - `README.md` – this file
 
 ## Limitations
 Small dataset (1,337 records), only six inputs, US-based data, no medical history.
 
 ## Author
-Your Name – IBM SkillsBuild Data Analytics with AI Internship
+Shivam Chauhan– IBM SkillsBuild Data Analytics with AI Internship
